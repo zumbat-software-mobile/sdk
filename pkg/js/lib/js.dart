@@ -5,7 +5,7 @@
 /// Annotations to mark interfaces to JavaScript.
 library js;
 
-export 'dart:js' show allowInterop, allowInteropCaptureThis;
+//export 'dart:js' show allowInterop, allowInteropCaptureThis;
 
 /// An annotation that indicates a library, class, or member is implemented
 /// directly in JavaScript.
